@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sdegennaro/DressMe.git"
+    "url": "git+https://github.com/brissettdwayne/DressMe.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sdegennaro/DressMe/issues"
+    "url": "https://github.com/brissettdwayne/DressMe/issues"
   },
-  "homepage": "https://github.com/sdegennaro/DressMe#readme",
+  "homepage": "https://github.com/brissettdwayne/DressMe#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
